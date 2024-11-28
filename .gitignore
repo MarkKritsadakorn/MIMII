@@ -1,0 +1,16 @@
+dataset
+dataset_log_mel_saved
+fan_results
+pump_results
+slider_results
+valve_results
+folder_csv
+MIMII_code
+logmel_1024_256
+logmel_1024_512
+logmel_2048_256
+logmel_2048_512
+logmel_4096_256
+logmel_4096_512
+test.ipynb
+trainmodel_logMel.ipynb

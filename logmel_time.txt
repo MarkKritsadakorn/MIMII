@@ -1,0 +1,7 @@
+Time taken for 1024 512 : 2849.5494978427887 seconds
+Time taken for 2048 512 : 3030.6081178188324 seconds
+Time taken for 4096 512 : 3551.6508576869965 seconds
+Time taken for 1024 256 : 4080.70063495636 seconds
+Time taken for 2048 256 : 4794.649164199829 seconds
+Time taken for 4096 256 : 6200.910346031189 seconds
+Total time taken : 24508.069626569748 seconds
