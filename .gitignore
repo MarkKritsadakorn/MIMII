@@ -1,3 +1,4 @@
+.gitignore
 dataset
 dataset_log_mel_saved
 fan_results
