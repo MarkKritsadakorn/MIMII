@@ -9,8 +9,8 @@ dataset_paths = {
     "valve": ["1024_256", "1024_512", "2048_256", "2048_512", "4096_256", "4096_512"]
 }
 
-base_dataset_path = "D:\\MIMII\\logmel_"
-output_folder = "D:\\MIMII\\folder_csv"  # Output folder for CSV files
+base_dataset_path = r"/home/eecommu06/Desktop/New Folder/logmel_png/logmel_"
+output_folder = "/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv"  # Output folder for CSV files
 os.makedirs(output_folder, exist_ok=True)  # Ensure the folder exists
 
 subfolder_lists = {

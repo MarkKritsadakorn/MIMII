@@ -36,39 +36,39 @@ transform = transforms.Compose([
 
 # Paths to CSV files for each type
 file_paths1 = [
-    r'D:\MIMII\folder_csv\fan_1024_256.csv',
-    r'D:\MIMII\folder_csv\fan_1024_512.csv',
-    r'D:\MIMII\folder_csv\fan_2048_256.csv',
-    r'D:\MIMII\folder_csv\fan_2048_512.csv',
-    r'D:\MIMII\folder_csv\fan_4096_256.csv',
-    r'D:\MIMII\folder_csv\fan_4096_512.csv'
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/fan_1024_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/fan_1024_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/fan_2048_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/fan_2048_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/fan_4096_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/fan_4096_512.csv'
 ]
 
 file_paths2 = [
-    r'D:\MIMII\folder_csv\pump_1024_256.csv',
-    r'D:\MIMII\folder_csv\pump_1024_512.csv',
-    r'D:\MIMII\folder_csv\pump_2048_256.csv',
-    r'D:\MIMII\folder_csv\pump_2048_512.csv',
-    r'D:\MIMII\folder_csv\pump_4096_256.csv',
-    r'D:\MIMII\folder_csv\pump_4096_512.csv'
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/pump_1024_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/pump_1024_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/pump_2048_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/pump_2048_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/pump_4096_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/pump_4096_512.csv'
 ]
 
 file_paths3 = [
-    r'D:\MIMII\folder_csv\slider_1024_256.csv',
-    r'D:\MIMII\folder_csv\slider_1024_512.csv',
-    r'D:\MIMII\folder_csv\slider_2048_256.csv',
-    r'D:\MIMII\folder_csv\slider_2048_512.csv',
-    r'D:\MIMII\folder_csv\slider_4096_256.csv',
-    r'D:\MIMII\folder_csv\slider_4096_512.csv'
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/slider_1024_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/slider_1024_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/slider_2048_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/slider_2048_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/slider_4096_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/slider_4096_512.csv'
 ]
 
 file_paths4 = [
-    r'D:\MIMII\folder_csv\valve_1024_256.csv',
-    r'D:\MIMII\folder_csv\valve_1024_512.csv',
-    r'D:\MIMII\folder_csv\valve_2048_256.csv',
-    r'D:\MIMII\folder_csv\valve_2048_512.csv',
-    r'D:\MIMII\folder_csv\valve_4096_256.csv',
-    r'D:\MIMII\folder_csv\valve_4096_512.csv'
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/valve_1024_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/valve_1024_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/valve_2048_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/valve_2048_512.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/valve_4096_256.csv',
+    r'/home/eecommu06/Desktop/New Folder/logmel_png/folder_csv/valve_4096_512.csv'
 ]
 
 # Output directories for each type
